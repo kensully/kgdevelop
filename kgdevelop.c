@@ -4,7 +4,6 @@
 #include <malloc.h>
 #include <signal.h>
 #include <math.h>
-#include "dlink.h"
 #include "image.c"
 #define VER 1401010200
 char kulinahome[500];
